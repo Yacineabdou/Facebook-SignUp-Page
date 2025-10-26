@@ -37,4 +37,4 @@ Le point clé de la réactivité ($768\text{px}$) est l'utilisation des Media Qu
 * **Date de Naissance** : Passe de `grid-template-columns: 1fr 1fr 1fr` à `1fr`.
 * **Genre** : Passe de `grid-template-columns: 1fr 1fr 1fr` à `1fr` (une option de genre par ligne).
 
-![La capture du projet]()
+![La capture du projet](./image/Capture-d’écran.png)
