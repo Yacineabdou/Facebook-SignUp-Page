@@ -28,6 +28,9 @@ body {
     margin-top: 50px;
     margin-bottom: 30px;
 }
+.header p {
+    color: #777;
+}
 h1{
     margin-bottom: 13px;
 }
@@ -47,6 +50,7 @@ h1{
     outline-color: black;
     border-radius: 8px;
     border: 1px solid #dde0e3;
+    font-weight: bold;
 }
 .adress {
     display: flex;
@@ -60,8 +64,11 @@ h1{
     outline-color: black;
     border-radius: 8px;
     border: 1px solid #dde0e3;
+    font-weight: bold;
 }
 .text{
+    color: #777;
+    font-size: 14px;
     margin-bottom: 5px;
 }
 .date {
@@ -72,8 +79,9 @@ h1{
     margin-bottom: 20px;
 }
 .jour, .moi, .anner {
+    font-size: 18px;
     padding: 15px 10px;
-    background-color: #e9ebee;
+    background-color: #f7f7fa;
     outline-color: black;
     border-radius: 8px;
     border: 1px solid #dde0e3;
@@ -94,11 +102,13 @@ h1{
 }
 .p{
     text-align: left;
+    font-size: 14px;
+    color: #777;
     margin-bottom: 40px;
 }
 a {
     text-decoration: none;
-    color: #1877fb;
+    color: #6597bf;
 }
 a:hover{
     text-decoration: underline;
@@ -110,6 +120,7 @@ button{
     font-size: 20px;
     color: #fff;
     background-color: #42b72a;
+    font-weight: bold;
     border: none;
 }
 @media (max-width: 768px) {
